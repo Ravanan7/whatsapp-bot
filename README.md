@@ -23,7 +23,7 @@ This is a Userbot based on WhatsAsena written by [Yusuf Usta](https://github.com
 <!--
 [![Run on Repl.it](https://replit.com/badge/github/Ravanan7/whatsapp-bot)](https://replit.com/@Nightbot2O/baileys-qr)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/lyfe00011/whatsapp-bot) -->
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ravanan7/whatsapp-bot) -->
 
 | Active | Group commands |
 | :----: | :------------- |
